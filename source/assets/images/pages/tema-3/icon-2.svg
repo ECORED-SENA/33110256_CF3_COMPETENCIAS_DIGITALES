@@ -1,0 +1,18 @@
+<svg id="Grupo_743" data-name="Grupo 743" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36.281" height="50.924" viewBox="0 0 36.281 50.924">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_610" data-name="Rectángulo 610" width="36.281" height="50.924" transform="translate(0 0)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_742" data-name="Grupo 742" clip-path="url(#clip-path)">
+    <path id="Trazado_2677" data-name="Trazado 2677" d="M18.141.768,35.569,7.79s4.76,26.738-17.428,42.278c0,0-21.075-13.527-17.428-42.278Z" fill="#fff"/>
+    <path id="Trazado_2678" data-name="Trazado 2678" d="M6.658,12.733,18.14,6.949l11.483,5.784S34.1,31.436,18.139,40.87c0,0-14.165-5.342-11.481-28.137" fill="#fff"/>
+    <path id="Trazado_2679" data-name="Trazado 2679" d="M18.141,50.923l-.4-.261C17.569,50.543,0,38.642,0,18.733V7.309L18.141,0,36.28,7.309V18.471c0,20.169-17.568,32.072-17.746,32.191ZM1.425,8.271V18.733c0,17.507,14.15,28.6,16.715,30.462,2.563-1.868,16.716-13,16.716-30.724V8.271L18.141,1.536Z" fill="#3e145e"/>
+    <path id="Trazado_2680" data-name="Trazado 2680" d="M18.14,42.171l-.3-.2c-.123-.081-12.259-8.3-12.259-22.056v-7.91L18.14,6.949,30.7,12.008v7.729c0,13.933-12.137,22.156-12.259,22.237ZM6.658,12.733v7.185c0,11.994,9.649,19.614,11.481,20.952,1.832-1.341,11.484-8.99,11.484-21.133v-7L18.14,8.106Z" fill="#3e145e"/>
+    <path id="Trazado_2681" data-name="Trazado 2681" d="M18.681,25.818a1.447,1.447,0,0,1-1.446-1.445V20.805a2.846,2.846,0,1,1,2.892,0v3.568a1.447,1.447,0,0,1-1.446,1.445m0-8.863a1.4,1.4,0,0,0-.479,2.721l.472.173v4.524l.014-4.524.472-.173a1.4,1.4,0,0,0-.479-2.721" fill="#3e145e"/>
+    <rect id="Rectángulo_606" data-name="Rectángulo 606" width="2.493" height="1.44" transform="translate(11.027 28.06) rotate(-48.997)" fill="#3e145e"/>
+    <rect id="Rectángulo_607" data-name="Rectángulo 607" width="2.493" height="1.44" transform="translate(15.222 28.06) rotate(-48.997)" fill="#3e145e"/>
+    <rect id="Rectángulo_608" data-name="Rectángulo 608" width="2.493" height="1.44" transform="translate(19.417 28.06) rotate(-48.997)" fill="#3e145e"/>
+    <rect id="Rectángulo_609" data-name="Rectángulo 609" width="2.493" height="1.44" transform="translate(23.612 28.06) rotate(-48.997)" fill="#3e145e"/>
+  </g>
+</svg>

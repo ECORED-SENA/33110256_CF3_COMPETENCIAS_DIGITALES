@@ -1,0 +1,26 @@
+[
+  {
+    "icon": "fa fa-home",
+    "slug": "external",
+    "title": "Volver al inicio",
+    "path": "index.html"
+  },  
+  {
+    "icon": "fa fa-file-text",
+    "slug": "tema-1",
+    "title": "1. Historia clínica",
+    "path": "pages/tema-1.html"
+  }, 
+  {
+    "icon": "fa fa-file-text",
+    "slug": "tema-3",
+    "title": "2. El intercambio y la interoperabilidad",
+    "path": "pages/tema-2.html" 
+  },
+  {
+    "icon": "fa fa-file-text",
+    "slug": "tema-4",
+    "title": "3. Ciberseguridad",
+    "path": "pages/tema-3.html" 
+  }
+]
