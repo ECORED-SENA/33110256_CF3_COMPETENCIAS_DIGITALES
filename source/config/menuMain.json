@@ -13,13 +13,13 @@
   }, 
   {
     "icon": "fa fa-file-text",
-    "slug": "tema-3",
+    "slug": "tema-2",
     "title": "2. El intercambio y la interoperabilidad",
     "path": "pages/tema-2.html" 
   },
   {
     "icon": "fa fa-file-text",
-    "slug": "tema-4",
+    "slug": "tema-3",
     "title": "3. Ciberseguridad",
     "path": "pages/tema-3.html" 
   }
